@@ -1,8 +1,4 @@
 #gitignore
 
-#Naõ
-public
-vendor
-#Não
 /.vscode
 .DS_Store
