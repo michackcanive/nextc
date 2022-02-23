@@ -1,5 +1,7 @@
 <?php
-
+/**
+ *  nextc mini sitema
+ */
 namespace App\Controller;
 
 use Nextc\Controller\Action;
